@@ -1,4 +1,4 @@
-                                                                                                          Grand Test-3
+                                                                          Grand Test-3
 
 This is Grand Test-3 which consists of 5 coding challenges. You are required to attempt any 3 questions out of the 5. Each question carries 30 marks. 
 If you attempt the 4th question, you will receive an additional bonus of 10 points.
