@@ -16,11 +16,6 @@ The program should allow the user to input the data for each student dynamically
 5.Marks should be a positive integer, and should a two digits number.
 6.Address should be between 5 and 100 characters long.
 To complete this task, you'll need to write Java code that includes the following:
-Define the Student class with the required fields (studentId, studentName, RollNo, mobileNumber, marks, and address) and create setter and getter methods.
-1.Create an array of Student objects with a length of 5.
-2.Prompt the user to input the data for each student dynamically.
-3.Store the inputted data in the corresponding Student object in the array.
-4.Display the data for all five students after all data has been inputted.
 
 Here's an example input and output for the program: 
 ----------------------------------------------------------- 
@@ -94,13 +89,7 @@ C. Create a class called Magazine that extends Publication and adds the followin
 1. orderQty (int)
 2. currentIssue (String)
 
-D. Add a method called saleCopy() to the Publication class that calculates and returns the total sale of the publication.
-Add a method called orderCopies() to the Book class that takes an integer parameter representing the number of copies ordered and adds it to the total number of copies of the book.
-Add a method called receiveNewIssue() to the Magazine class that takes a String parameter representing the new issue and updates the current issue of the magazine.
-In the main method of the program, prompt the user to enter the book's title, price, number of copies sold, and number of copies ordered.
-Create an instance of the Book class with the user's input and call the orderCopies() method with the number of copies ordered.
-Calculate the total number of copies of the book that have been ordered and the total sale of the publication using the saleCopy() method.
-Display the total number of copies of the book that have been ordered and the total sale of the publication to the user.
+
 Example Output:
 Enter title: Introduction to Java Programming
 Enter price: 59.99
